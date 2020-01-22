@@ -23,7 +23,7 @@ const tempItems = [
   {
     id: 1,
     title: 'Complete redux demo',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -31,7 +31,7 @@ const tempItems = [
   {
     id: 2,
     title: 'Start creating demo',
-    author: {
+    asignee: {
       id: 2,
       name: 'demo user'
     }
@@ -39,7 +39,7 @@ const tempItems = [
   {
     id: 3,
     title: 'Make sure to check ids',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -47,7 +47,7 @@ const tempItems = [
   {
     id: 4,
     title: 'Conquer the complexity with SOLID',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -56,7 +56,7 @@ const tempItems = [
   {
     id: 5,
     title: 'Complete redux demo',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -64,7 +64,7 @@ const tempItems = [
   {
     id: 6,
     title: 'Start creating demo',
-    author: {
+    asignee: {
       id: 2,
       name: 'demo user'
     }
@@ -72,7 +72,7 @@ const tempItems = [
   {
     id: 7,
     title: 'Make sure to check ids',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -80,7 +80,7 @@ const tempItems = [
   {
     id: 8,
     title: 'Conquer the complexity with SOLID',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -89,7 +89,7 @@ const tempItems = [
   {
     id: 9,
     title: 'Complete redux demo',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -97,7 +97,7 @@ const tempItems = [
   {
     id: 10,
     title: 'Start creating demo',
-    author: {
+    asignee: {
       id: 2,
       name: 'demo user'
     }
@@ -105,7 +105,7 @@ const tempItems = [
   {
     id: 11,
     title: 'Make sure to check ids',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }
@@ -113,7 +113,7 @@ const tempItems = [
   {
     id: 12,
     title: 'Conquer the complexity with SOLID',
-    author: {
+    asignee: {
       id: 1,
       name: 'vinod'
     }

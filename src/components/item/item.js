@@ -7,9 +7,9 @@ const Item = (props) => {
             <input type="checkbox" />
             <div style={styles.centerContent}>
                 <p style={styles.title}> {props.task.title} </p>
-                <p style={styles.authorName}>
-                    <span style={styles.authorNameLabel}>author : </span> 
-                    {props.task.author.name} 
+                <p style={styles.asigneeName}>
+                    <span style={styles.asigneeNameLabel}>asignee : </span> 
+                    {props.task.asignee.name} 
                 </p>
             </div>
             <div style={styles.buttonsContainer}>
@@ -39,11 +39,11 @@ const styles = {
         paddingBottom: '5px',
         textOverflow: 'wrap',
     },
-    authorName: {
+    asigneeName: {
         margin: 0,
         fontSize: '11px',
     },
-    authorNameLabel: {
+    asigneeNameLabel: {
         color: 'grey',
         fontSize: '9px',
     },
