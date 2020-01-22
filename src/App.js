@@ -5,7 +5,7 @@ import List from './components/ItemList/itemList';
 function App() {
   return (
     <div style={styles.container}>
-      <h3>Awesome ToDo List</h3>
+      <h3>Awesome Task List</h3>
       <List items={tempItems} />
     </div>
   );
