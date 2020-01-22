@@ -17,7 +17,7 @@ const renderItems = (itemList) => {
 
 const styles = {
     list: {
-        height: 'calc(100vh - 80px)',
+        height: 'calc(100vh - 150px)',
         overflowY: 'auto',
         width: '500px',
     }
